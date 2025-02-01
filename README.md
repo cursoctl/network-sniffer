@@ -1,5 +1,5 @@
 # network-sniffer
-"Sniffer de rede em Python com análise de pacotes TCP, UDP, ICMP e suporte a PCAP."
+"Sniffer de rede em Python com análise de pacotes TCP, UDP, ICMP "
 # Network Sniffer 🔎  
 
 Um Sniffer de Rede desenvolvido em Python que captura pacotes TCP, UDP, ICMP e analisa conexões HTTP/DNS.  
